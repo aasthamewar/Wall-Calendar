@@ -38,7 +38,7 @@ It allows users to select date ranges and attach notes, combining a clean UI wit
 ---
 
 ## 📂 Project Structure
-
+```
 src/
 ├── components/
 │    └── calendar/
@@ -52,7 +52,7 @@ src/
 │
 ├── App.tsx
 ├── main.tsx
-
+```
 ---
 
 ## ⚙️ Installation & Setup
